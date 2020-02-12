@@ -1,0 +1,31 @@
+# HW1
+
+# Exercise 1
+
+print(2 + 2)
+print(2**3 * 4)
+print(25 / 5)
+
+# Exercise 2
+print("over,", "under,", "around.")
+
+# Exercise 3
+first_name, last_name = "Katie", "O'Donnoghue"
+print("Hello, my name is", first_name, last_name)
+
+# Exercise 4
+density = 4
+volume = 32
+print (density * volume)
+mass = (density * volume)
+print(mass)
+
+# Exercise 5
+pay_rate = 18
+minutes_worked = 470
+hours_worked = minutes_worked / 60
+results = pay_rate * hours_worked
+print("$", results)
+
+password = input("Utes!")
+

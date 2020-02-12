@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e9fbb0b-a492-4d71-8704-368f7173396c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W8kscW7BenOQhDcl2kOyNWIq9k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;Python" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Archive/Week 3" />
+      <recent name="$PROJECT_DIR$/Archive" />
+      <recent name="$PROJECT_DIR$/Week (1)" />
+      <recent name="$PROJECT_DIR$/Week 4" />
+      <recent name="$PROJECT_DIR$/Week 3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Week 5 Homework">
+    <configuration name="Code Along 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="6850" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 5/Code Along 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Code Along 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="6850" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 5/Code Along 3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="In class EX 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="6850" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 5/In class EX 3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Week 5 Homework" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="6850" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 5/Week 5 Homework.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="6850" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Week 5 Homework" />
+        <item itemvalue="Python.In class EX 3" />
+        <item itemvalue="Python.Code Along 3" />
+        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.Code Along 2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="570" y="359" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578538844612">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="570" y="359" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1578538844612" />
+    <state x="528" y="268" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580419884975">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="528" y="268" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1580419884975" />
+    <state width="1659" height="800" key="GridCell.Tab.0.bottom" timestamp="1581537621024">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="800" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581537621024" />
+    <state width="1659" height="390" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1580960350681" />
+    <state width="809" height="267" key="GridCell.Tab.0.bottom/1680.-276.1920.1057/0.23.1680.1027@1680.-276.1920.1057" timestamp="1580764555520" />
+    <state width="1899" height="267" key="GridCell.Tab.0.bottom/1680.-299.1920.1080/0.0.1680.1050@1680.-299.1920.1080" timestamp="1580687776269" />
+    <state width="1899" height="267" key="GridCell.Tab.0.bottom/1680.-299.1920.1080/0.23.1680.1027@1680.-299.1920.1080" timestamp="1580684528274" />
+    <state width="1659" height="289" key="GridCell.Tab.0.bottom/1680.-314.3440.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1580426756885" />
+    <state width="1689" height="390" key="GridCell.Tab.0.bottom/1680.-337.3440.1440/0.0.1680.1050@1680.-337.3440.1440" timestamp="1580944088018" />
+    <state width="1689" height="800" key="GridCell.Tab.0.bottom/1680.0.3440.1440/0.0.1680.1050@1680.0.3440.1440" timestamp="1581467877727" />
+    <state width="1379" height="421" key="GridCell.Tab.0.bottom/1680.23.3440.1417/0.23.1680.1027@1680.23.3440.1417" timestamp="1579281966432" />
+    <state width="1659" height="800" key="GridCell.Tab.0.center" timestamp="1581537621023">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="800" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581537621023" />
+    <state width="1659" height="390" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1580960350681" />
+    <state width="809" height="267" key="GridCell.Tab.0.center/1680.-276.1920.1057/0.23.1680.1027@1680.-276.1920.1057" timestamp="1580764555519" />
+    <state width="1899" height="267" key="GridCell.Tab.0.center/1680.-299.1920.1080/0.0.1680.1050@1680.-299.1920.1080" timestamp="1580687776267" />
+    <state width="1899" height="267" key="GridCell.Tab.0.center/1680.-299.1920.1080/0.23.1680.1027@1680.-299.1920.1080" timestamp="1580684528272" />
+    <state width="1659" height="289" key="GridCell.Tab.0.center/1680.-314.3440.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1580426756883" />
+    <state width="1689" height="390" key="GridCell.Tab.0.center/1680.-337.3440.1440/0.0.1680.1050@1680.-337.3440.1440" timestamp="1580944088016" />
+    <state width="1689" height="800" key="GridCell.Tab.0.center/1680.0.3440.1440/0.0.1680.1050@1680.0.3440.1440" timestamp="1581467877726" />
+    <state width="1379" height="421" key="GridCell.Tab.0.center/1680.23.3440.1417/0.23.1680.1027@1680.23.3440.1417" timestamp="1579281966431" />
+    <state width="1659" height="800" key="GridCell.Tab.0.left" timestamp="1581537621023">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="800" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581537621023" />
+    <state width="1659" height="390" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1580960350680" />
+    <state width="809" height="267" key="GridCell.Tab.0.left/1680.-276.1920.1057/0.23.1680.1027@1680.-276.1920.1057" timestamp="1580764555518" />
+    <state width="1899" height="267" key="GridCell.Tab.0.left/1680.-299.1920.1080/0.0.1680.1050@1680.-299.1920.1080" timestamp="1580687776266" />
+    <state width="1899" height="267" key="GridCell.Tab.0.left/1680.-299.1920.1080/0.23.1680.1027@1680.-299.1920.1080" timestamp="1580684528271" />
+    <state width="1659" height="289" key="GridCell.Tab.0.left/1680.-314.3440.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1580426756883" />
+    <state width="1689" height="390" key="GridCell.Tab.0.left/1680.-337.3440.1440/0.0.1680.1050@1680.-337.3440.1440" timestamp="1580944088015" />
+    <state width="1689" height="800" key="GridCell.Tab.0.left/1680.0.3440.1440/0.0.1680.1050@1680.0.3440.1440" timestamp="1581467877725" />
+    <state width="1379" height="421" key="GridCell.Tab.0.left/1680.23.3440.1417/0.23.1680.1027@1680.23.3440.1417" timestamp="1579281966431" />
+    <state width="1659" height="800" key="GridCell.Tab.0.right" timestamp="1581537621024">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="800" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581537621024" />
+    <state width="1659" height="390" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1580960350681" />
+    <state width="809" height="267" key="GridCell.Tab.0.right/1680.-276.1920.1057/0.23.1680.1027@1680.-276.1920.1057" timestamp="1580764555520" />
+    <state width="1899" height="267" key="GridCell.Tab.0.right/1680.-299.1920.1080/0.0.1680.1050@1680.-299.1920.1080" timestamp="1580687776268" />
+    <state width="1899" height="267" key="GridCell.Tab.0.right/1680.-299.1920.1080/0.23.1680.1027@1680.-299.1920.1080" timestamp="1580684528273" />
+    <state width="1659" height="289" key="GridCell.Tab.0.right/1680.-314.3440.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1580426756884" />
+    <state width="1689" height="390" key="GridCell.Tab.0.right/1680.-337.3440.1440/0.0.1680.1050@1680.-337.3440.1440" timestamp="1580944088017" />
+    <state width="1689" height="800" key="GridCell.Tab.0.right/1680.0.3440.1440/0.0.1680.1050@1680.0.3440.1440" timestamp="1581467877727" />
+    <state width="1379" height="421" key="GridCell.Tab.0.right/1680.23.3440.1417/0.23.1680.1027@1680.23.3440.1417" timestamp="1579281966432" />
+    <state width="1659" height="356" key="GridCell.Tab.1.bottom" timestamp="1580675309761">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="356" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580675309761" />
+    <state width="1379" height="340" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1579144555115" />
+    <state width="1659" height="356" key="GridCell.Tab.1.bottom/1680.-314.3440.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1580426368496" />
+    <state width="1689" height="528" key="GridCell.Tab.1.bottom/1680.-337.3440.1440/0.0.1680.1050@1680.-337.3440.1440" timestamp="1579898018924" />
+    <state width="1379" height="340" key="GridCell.Tab.1.bottom/1680.23.3440.1417/0.23.1680.1027@1680.23.3440.1417" timestamp="1579277915605" />
+    <state width="1659" height="356" key="GridCell.Tab.1.center" timestamp="1580675309760">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="356" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580675309760" />
+    <state width="1379" height="340" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1579144555115" />
+    <state width="1659" height="356" key="GridCell.Tab.1.center/1680.-314.3440.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1580426368494" />
+    <state width="1689" height="528" key="GridCell.Tab.1.center/1680.-337.3440.1440/0.0.1680.1050@1680.-337.3440.1440" timestamp="1579898018923" />
+    <state width="1379" height="340" key="GridCell.Tab.1.center/1680.23.3440.1417/0.23.1680.1027@1680.23.3440.1417" timestamp="1579277915604" />
+    <state width="1659" height="356" key="GridCell.Tab.1.left" timestamp="1580675309759">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="356" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580675309759" />
+    <state width="1379" height="340" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1579144555114" />
+    <state width="1659" height="356" key="GridCell.Tab.1.left/1680.-314.3440.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1580426368493" />
+    <state width="1689" height="528" key="GridCell.Tab.1.left/1680.-337.3440.1440/0.0.1680.1050@1680.-337.3440.1440" timestamp="1579898018923" />
+    <state width="1379" height="340" key="GridCell.Tab.1.left/1680.23.3440.1417/0.23.1680.1027@1680.23.3440.1417" timestamp="1579277915604" />
+    <state width="1659" height="356" key="GridCell.Tab.1.right" timestamp="1580675309760">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="356" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580675309760" />
+    <state width="1379" height="340" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1579144555115" />
+    <state width="1659" height="356" key="GridCell.Tab.1.right/1680.-314.3440.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1580426368495" />
+    <state width="1689" height="528" key="GridCell.Tab.1.right/1680.-337.3440.1440/0.0.1680.1050@1680.-337.3440.1440" timestamp="1579898018924" />
+    <state width="1379" height="340" key="GridCell.Tab.1.right/1680.23.3440.1417/0.23.1680.1027@1680.23.3440.1417" timestamp="1579277915605" />
+    <state x="683" y="205" key="SettingsEditor" timestamp="1579640099080">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="683" y="205" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1579640099080" />
+    <state x="3195" y="274" key="SettingsEditor/1680.23.3440.1417/0.23.1680.1027@1680.23.3440.1417" timestamp="1579223722062" />
+    <state x="27" y="209" width="670" height="721" key="dock-window-1" timestamp="1580351056543">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="27" y="209" width="670" height="721" key="dock-window-1/0.23.1680.1027@0.23.1680.1027" timestamp="1580351056543" />
+    <state x="645" y="292" width="1035" height="517" key="dock-window-1/1680.23.3440.1417/0.23.1680.1027@1680.23.3440.1417" timestamp="1579227583496" />
+    <state x="645" y="288" width="1035" height="517" key="dock-window-2" timestamp="1579227583497">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="645" y="288" width="1035" height="517" key="dock-window-2/1680.23.3440.1417/0.23.1680.1027@1680.23.3440.1417" timestamp="1579227583497" />
+    <state x="421" y="124" width="837" height="825" key="find.popup" timestamp="1580420294248">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="421" y="124" width="837" height="825" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1580420294248" />
+    <state x="2936" y="-51" width="670" height="507" key="search.everywhere.popup" timestamp="1580683634773">
+      <screen x="1680" y="-299" width="1920" height="1080" />
+    </state>
+    <state x="2936" y="-51" width="670" height="507" key="search.everywhere.popup/1680.-299.1920.1080/0.0.1680.1050@1680.-299.1920.1080" timestamp="1580683634773" />
+    <state x="3930" y="-6" width="670" height="676" key="search.everywhere.popup/1680.-337.3440.1440/0.0.1680.1050@1680.-337.3440.1440" timestamp="1579746752515" />
+    <state x="3930" y="-6" width="670" height="676" key="search.everywhere.popup/1680.-337.3440.1440/0.23.1680.1027@1680.-337.3440.1440" timestamp="1579753137954" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Archive/Week (1)/Week 1</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
